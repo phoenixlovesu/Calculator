@@ -1,2 +1,2 @@
-##Simple Calculator
-This project is contains a calculator with basic functions
+## Simple Calculator
+This project contains a calculator with basic functions
