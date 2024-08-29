@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: aquamarine;
+
+}
+.wrap{
+    height: 500px;
+    width: 355px;
+    padding: 10px;
+    margin: 10%;
+}
+input{
+    font-size: 25px;
+    padding: 20px;
+    text-align: right;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    color: #662d91;
+}
+.button{
+    width: 85px;
+    height: 70px;
+    position: relative;
+    font-size: 25px;
+    font-style: bold;
+    text-align: center;
+    cursor: pointer;
+    background: transparent;
+}
+.button:hover{
+    color: aliceblue;
+}
+.equal{
+    width: 175px;
+    height: 70px;
+    background: transparent;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 25px;
+}
